@@ -1,0 +1,23 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmjspecial/Test-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmjspecial/Test-Project/issues"
+  },
+  "homepage": "https://github.com/rmjspecial/Test-Project#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
